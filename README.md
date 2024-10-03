@@ -1,7 +1,6 @@
 # exercieRestApi
 Demo project for Spring Boot exercieAPI
 # Rest API
-## API
 ### Endpoints
 
 ### 1 - Show Accounts
